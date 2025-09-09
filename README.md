@@ -6,26 +6,26 @@ LabFriend manages 67,000+ products across 7+ stores, which makes manual regressi
 
 🚀 Purpose
 
-Automate regression testing for LabFriend’s stage environment.
+- Automate regression testing for LabFriend’s stage environment.
 
-Reduce manual effort and testing time.
+- Reduce manual effort and testing time.
 
-Improve accuracy and consistency in test execution.
+- Improve accuracy and consistency in test execution.
 
 🛠️ Technologies Used
 
-Selenium WebDriver (Java) – Browser automation using the latest Selenium technologies.
+- Selenium WebDriver (Java) – Browser automation using the latest Selenium technologies.
 
-TestNG – Test framework for structuring and executing tests.
+- TestNG – Test framework for structuring and executing tests.
 
-Page Object Model (POM) – Implemented for better code maintainability, readability, and scalability.
+- Page Object Model (POM) – Implemented for better code maintainability, readability, and scalability.
 
 📌 Key Features
 
-Automated regression tests for critical user flows.
+- Automated regression tests for critical user flows.
 
-Scalable test design to handle thousands of products.
+- Scalable test design to handle thousands of products.
 
-Supports multiple store environments.
+- Supports multiple store environments.
 
-Built on Page Object Model architecture for clean, modular, and reusable test code.
+- Built on Page Object Model architecture for clean, modular, and reusable test code.
